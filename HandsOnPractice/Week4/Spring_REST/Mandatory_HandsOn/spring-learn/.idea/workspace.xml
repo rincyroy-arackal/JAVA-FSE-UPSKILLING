@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="514ac1a7-5674-4f6c-900c-a9a8cf588112" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Junit_Testing/Exercise1/JUnitSetupDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Junit_Testing/Exercise1/JUnitSetupDemo/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Junit_Testing/Exercise1/JUnitSetupDemo/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Junit_Testing/Exercise3/JunitAssertion/src/test/java/AssertionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/LoggingusingSLF4J/Exercise1/src/main/java/LoggingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Mockito/Exercise1/src/main/java/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Mockito/Exercise1/src/main/java/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Mockito/Exercise1/src/test/java/MyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Mockito/Exercise2/src/main/java/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Mockito/Exercise2/src/main/java/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week2/Mockito/Exercise2/src/test/java/MyServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/BasicSpringApplication/src/main/java/com/library/main/LibraryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/BasicSpringApplication/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/BasicSpringApplication/src/main/java/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/BasicSpringApplication/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Excercise2/src/main/java/com/library/main/LibraryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Excercise2/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Excercise2/src/main/java/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Excercise2/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise5/src/main/java/com/library/main/LibraryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise5/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise5/src/main/java/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise5/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise7/src/main/java/com/library/main/LibraryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise7/src/main/java/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise7/src/main/java/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringCore_Maven/Exercise7/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringDataJPA_SpringBoot_Hibernate/orm-learn/src/main/java/com/cognizant/orm_learn/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringDataJPA_SpringBoot_Hibernate/orm-learn/src/main/java/com/cognizant/orm_learn/repository/CountryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Week3/SpringDataJPA_SpringBoot_Hibernate/orm-learn/src/main/java/com/cognizant/orm_learn/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandsOn4/src/main/java/com/cognizant/springlearn/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandsOn4/src/main/java/com/cognizant/springlearn/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HandsOn4/src/main/resources/Country.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldRestful/src/main/java/com/cognizant/springlearn/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldRestful/src/main/java/com/cognizant/springlearn/controller/SpringLearnApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_learn/src/main/java/com/cognizant/springlearn/SpringLearnApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2zpVenpsUeqjNyoejJ33hmR5mgv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Rincyroy/Desktop/JAVA-FSE-UPSKILLING/HandsOnPractice/Week4/Spring_REST/Mandatory_HandsOn/spring-learn/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514ac1a7-5674-4f6c-900c-a9a8cf588112" name="Changes" comment="" />
+      <created>1752428105640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752428105640</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="employeeList" class="java.util.ArrayList">
+        <constructor-arg>
+            <list>
+                <bean class="com.example.employee.Employee">
+                    <property name="id" value="1"/>
+                    <property name="name" value="Alice"/>
+                    <property name="department" value="HR"/>
+                    <property name="designation" value="Manager"/>
+                </bean>
+                <bean class="com.example.employee.Employee">
+                    <property name="id" value="2"/>
+                    <property name="name" value="Bob"/>
+                    <property name="department" value="IT"/>
+                    <property name="designation" value="Developer"/>
+                </bean>
+            </list>
+        </constructor-arg>
+    </bean>
+</beans>
