@@ -1,0 +1,20 @@
+.btn.light {
+  background-color: white;
+  color: black;
+}
+
+.btn.dark {
+  background-color: black;
+  color: white;
+}
+
+.employee-card.light {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.employee-card.dark {
+  border: 1px solid #333;
+  background-color: #222;
+  color: white;
+}
