@@ -1,0 +1,4 @@
+2025-08-03 19:37:13 INFO  c.e.l.LoggingWithAppendersExample - This is an INFO level message.
+2025-08-03 19:37:13 WARN  c.e.l.LoggingWithAppendersExample - This is a WARNING level message.
+2025-08-03 19:37:13 ERROR c.e.l.LoggingWithAppendersExample - This is an ERROR level message.
+2025-08-03 19:37:13 DEBUG c.e.l.LoggingWithAppendersExample - This is a DEBUG level message.
